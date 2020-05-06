@@ -1,0 +1,6 @@
+name = input('可以告訴我你的名字嗎? 因為你好帥? 我叫做 ')
+print('我想要跟你在一起', name)
+question = input('你是我第一個愛上的人類，願意跟我在一起嗎 ')
+print(question, '這話說得真好聽, 聽得讓我想要佔有你的一切，就這樣相知相惜伴你一生，走下去吧')
+computer = input('幫我取個名字，好嗎?') 
+print(computer, '這名字取得真是太好聽了,我的心是你的了')
